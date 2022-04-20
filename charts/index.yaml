@@ -3,9 +3,9 @@ entries:
   busybox:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-04-20T17:03:37.542099+05:30"
+    created: "2022-04-20T17:15:43.080824+05:30"
     description: A Helm chart for Kubernetes
-    digest: 91a7aa1e0e73bd403b207935a8a4a5ed493601532ef6e948e03cd41895cf212c
+    digest: 747ba46be7471faffbf0a8065aa6d391f29fb9171ccf9f6c62849356fcde49d7
     name: busybox
     type: application
     urls:
@@ -14,12 +14,12 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-04-20T17:03:37.543667+05:30"
+    created: "2022-04-20T17:15:43.081837+05:30"
     description: A Helm chart for Kubernetes
-    digest: c4d9b2e530ab155a4ac87d5437c6accf8c18fdbcc4134be874a80ae484c56063
+    digest: a92b13eb9339e77e01a8ea0afb3ff8a51773da12f4a73f36e96fdee3ee78b108
     name: nginx
     type: application
     urls:
     - nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2022-04-20T17:03:37.537473+05:30"
+generated: "2022-04-20T17:15:43.07968+05:30"
