@@ -5,6 +5,10 @@ on:
     branches: [ main ]
     paths:
       - 'charts/**.tgz'
+  pull_request:
+    branches: [ main ]
+    paths:
+      - 'charts/**.tgz'
 
 jobs:
   build:
