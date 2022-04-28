@@ -3,7 +3,7 @@ entries:
   busybox:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-04-28T19:03:19.878143554Z"
+    created: "2022-04-28T19:10:17.064432975Z"
     description: A Helm chart for Kubernetes
     digest: 747ba46be7471faffbf0a8065aa6d391f29fb9171ccf9f6c62849356fcde49d7
     name: busybox
@@ -14,7 +14,7 @@ entries:
   helm-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-04-28T19:03:19.878638559Z"
+    created: "2022-04-28T19:10:17.065166581Z"
     description: A Helm chart for Kubernetes
     digest: 1122600b022a0bfcb5c15565982fee8ec40c1fc10991bda128d9ee2cacec07c0
     icon: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Favesha&psig=AOvVaw1XK5QGgET7a_Goxm90IX0j&ust=1650691667070000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNicw-X3pvcCFQAAAAAdAAAAABAD
@@ -26,7 +26,7 @@ entries:
   index-update:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-04-28T19:03:19.879127764Z"
+    created: "2022-04-28T19:10:17.065749186Z"
     description: A Helm chart for Kubernetes
     digest: ecf9bae769fc78f0851962d47d17e237f9185283f8c80c08c3c1d0bef435f672
     name: index-update
@@ -37,7 +37,7 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-04-28T19:03:19.879685869Z"
+    created: "2022-04-28T19:10:17.066377691Z"
     description: A Helm chart for Kubernetes
     digest: a92b13eb9339e77e01a8ea0afb3ff8a51773da12f4a73f36e96fdee3ee78b108
     name: nginx
@@ -48,7 +48,7 @@ entries:
   postgres:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-04-28T19:03:19.88071738Z"
+    created: "2022-04-28T19:10:17.067113998Z"
     description: A Helm chart for Kubernetes
     digest: b0ae200756be96ea9f19216de4b3af395283278137964508678f6f4b9578b7a6
     name: postgres
@@ -59,7 +59,7 @@ entries:
   v1:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-04-28T19:03:19.881597689Z"
+    created: "2022-04-28T19:10:17.067692702Z"
     description: A Helm chart for Kubernetes
     digest: 51c0bb42e11eb23ff98e960b145b8a4774efea51283e4e2614a7ef052d97eaf6
     name: v1
@@ -70,7 +70,7 @@ entries:
   v2:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-04-28T19:03:19.882299396Z"
+    created: "2022-04-28T19:10:17.068406408Z"
     description: A Helm chart for Kubernetes
     digest: 95a118b06a8f8d9ad40e5e5bdc11cf827e6bc8efd2fced63f51f8687a12ca74a
     name: v2
@@ -78,4 +78,15 @@ entries:
     urls:
     - charts/v2-0.1.0.tgz
     version: 0.1.0
-generated: "2022-04-28T19:03:19.877378246Z"
+  v3:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-04-28T19:10:17.069038313Z"
+    description: A Helm chart for Kubernetes
+    digest: 1a2954774ef5eb8b2126097fb18a794ef16a0bc37ff998892a8accf0c5a19f9b
+    name: v3
+    type: application
+    urls:
+    - charts/v3-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-04-28T19:10:17.062913463Z"
