@@ -1,55 +1,9 @@
 apiVersion: v1
 entries:
-  busybox:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-05-09T04:42:34.837295947Z"
-    description: A Helm chart for Kubernetes
-    digest: 747ba46be7471faffbf0a8065aa6d391f29fb9171ccf9f6c62849356fcde49d7
-    name: busybox
-    type: application
-    urls:
-    - charts/busybox-0.1.1.tgz
-    version: 0.1.0
-  helm-chart-test:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-05-09T04:42:34.837808056Z"
-    description: A Helm chart for Kubernetes
-    digest: 1122600b022a0bfcb5c15565982fee8ec40c1fc10991bda128d9ee2cacec07c0
-    icon: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Favesha&psig=AOvVaw1XK5QGgET7a_Goxm90IX0j&ust=1650691667070000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNicw-X3pvcCFQAAAAAdAAAAABAD
-    name: helm-chart-test
-    type: application
-    urls:
-    - charts/helm-chart-test-0.1.0.tgz
-    version: 0.1.0
-  index-update:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-05-09T04:42:34.838248065Z"
-    description: A Helm chart for Kubernetes
-    digest: ecf9bae769fc78f0851962d47d17e237f9185283f8c80c08c3c1d0bef435f672
-    name: index-update
-    type: application
-    urls:
-    - charts/index-update-0.1.0.tgz
-    version: 0.1.0
-  logochart:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-05-09T04:42:34.838739674Z"
-    description: A Helm chart for Kubernetes
-    digest: a4f5cf97ad0e7005e00c216660692c3fe7b4680bac250aede22c02f83e26f4fd
-    icon: https://basic-techno.github.io/rawgithubconentuser/bt.png
-    name: logochart
-    type: application
-    urls:
-    - charts/logochart-0.1.0.tgz
-    version: 0.1.0
   nginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-05-09T04:42:34.8401392Z"
+    created: "2022-05-09T05:01:37.597112027Z"
     description: A Helm chart for Kubernetes
     digest: d46e458e314123886fc8bf927eff5b2515648605f6e9ed9e9cf33828cdaed75b
     name: nginx
@@ -59,7 +13,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-05-09T04:42:34.839674792Z"
+    created: "2022-05-09T05:01:37.596608021Z"
     description: A Helm chart for Kubernetes
     digest: 6d65e9d59809cf2c60e60d1975dde05e001d77ee28d46283fa251bbc9b6b3b9b
     name: nginx
@@ -69,7 +23,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-05-09T04:42:34.839222783Z"
+    created: "2022-05-09T05:01:37.596125915Z"
     description: A Helm chart for Kubernetes
     digest: a92b13eb9339e77e01a8ea0afb3ff8a51773da12f4a73f36e96fdee3ee78b108
     name: nginx
@@ -77,48 +31,4 @@ entries:
     urls:
     - charts/nginx-0.1.0.tgz
     version: 0.1.0
-  postgres:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-05-09T04:42:34.840572209Z"
-    description: A Helm chart for Kubernetes
-    digest: b0ae200756be96ea9f19216de4b3af395283278137964508678f6f4b9578b7a6
-    name: postgres
-    type: application
-    urls:
-    - charts/postgres-0.1.0.tgz
-    version: 0.1.0
-  v1:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-05-09T04:42:34.840994517Z"
-    description: A Helm chart for Kubernetes
-    digest: 51c0bb42e11eb23ff98e960b145b8a4774efea51283e4e2614a7ef052d97eaf6
-    name: v1
-    type: application
-    urls:
-    - charts/v1-0.1.0.tgz
-    version: 0.1.0
-  v2:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-05-09T04:42:34.841407624Z"
-    description: A Helm chart for Kubernetes
-    digest: 95a118b06a8f8d9ad40e5e5bdc11cf827e6bc8efd2fced63f51f8687a12ca74a
-    name: v2
-    type: application
-    urls:
-    - charts/v2-0.1.0.tgz
-    version: 0.1.0
-  v3:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-05-09T04:42:34.841848933Z"
-    description: A Helm chart for Kubernetes
-    digest: 1a2954774ef5eb8b2126097fb18a794ef16a0bc37ff998892a8accf0c5a19f9b
-    name: v3
-    type: application
-    urls:
-    - charts/v3-0.1.0.tgz
-    version: 0.1.0
-generated: "2022-05-09T04:42:34.836234127Z"
+generated: "2022-05-09T05:01:37.593492483Z"
