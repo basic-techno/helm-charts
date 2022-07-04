@@ -1,9 +1,48 @@
 apiVersion: v1
 entries:
+  busybox:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-07-04T11:25:29.113469827Z"
+    description: A Helm chart for Kubernetes
+    digest: 959fbbd9eb34e26899943fb4e1ecf6d5fa3624b2c55c0f6d25ea486157346acc
+    name: busybox
+    type: application
+    urls:
+    - charts/busybox-0.1.0.tgz
+    version: 0.1.0
+  kubeslice-controller-ui:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-07-04T11:25:29.11411413Z"
+    description: A Helm chart for Kubernetes
+    digest: 0be69f7a582f1873c023ebab0f34a151d65ec361d800df57b67510f6bc8f96f1
+    keywords:
+    - multicloud
+    - multi cloud
+    - multitenant
+    - multitenancy
+    - multi tenant
+    - multi tenancy
+    - federated mesh
+    - federated clusters
+    - federated k8s
+    - federated kubernetes
+    - cluster sprawl
+    - sprawl
+    - namespace sprawl
+    - network policy
+    - overlay network
+    - mesh network
+    name: kubeslice-controller-ui
+    type: application
+    urls:
+    - charts/kubeslice-controller-ui-0.1.0.tgz
+    version: 0.1.0
   nginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-05-09T05:19:19.956632079Z"
+    created: "2022-07-04T11:25:29.116296843Z"
     description: A Helm chart for Kubernetes
     digest: d46e458e314123886fc8bf927eff5b2515648605f6e9ed9e9cf33828cdaed75b
     name: nginx
@@ -13,7 +52,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-05-09T05:19:19.956174077Z"
+    created: "2022-07-04T11:25:29.115421738Z"
     description: A Helm chart for Kubernetes
     digest: 6d65e9d59809cf2c60e60d1975dde05e001d77ee28d46283fa251bbc9b6b3b9b
     name: nginx
@@ -23,7 +62,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-05-09T05:19:19.955460573Z"
+    created: "2022-07-04T11:25:29.114595633Z"
     description: A Helm chart for Kubernetes
     digest: a92b13eb9339e77e01a8ea0afb3ff8a51773da12f4a73f36e96fdee3ee78b108
     name: nginx
@@ -31,4 +70,4 @@ entries:
     urls:
     - charts/nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2022-05-09T05:19:19.954636769Z"
+generated: "2022-07-04T11:25:29.112731522Z"
