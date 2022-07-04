@@ -1,0 +1,23 @@
+apiVersion: v2
+appVersion: 1.16.0
+description: A Helm chart for Kubernetes
+keywords:
+- multicloud
+- multi cloud
+- multitenant
+- multitenancy
+- multi tenant
+- multi tenancy
+- federated mesh
+- federated clusters
+- federated k8s
+- federated kubernetes
+- cluster sprawl
+- sprawl
+- namespace sprawl
+- network policy
+- overlay network
+- mesh network
+name: kubeslice-controller-ui
+type: application
+version: 0.1.1
