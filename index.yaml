@@ -3,7 +3,34 @@ entries:
   kubeslice-controller-ui:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-07-04T11:31:24.740619069Z"
+    created: "2022-07-04T17:50:45.666022337Z"
+    description: A Helm chart for Kubernetes
+    digest: b90ef2ffa92f71e71c3fed489fcc468167a57190a1c8f9aa546a8559af83536f
+    keywords:
+    - multicloud
+    - multi cloud
+    - multitenant
+    - multitenancy
+    - multi tenant
+    - multi tenancy
+    - federated mesh
+    - federated clusters
+    - federated k8s
+    - federated kubernetes
+    - cluster sprawl
+    - sprawl
+    - namespace sprawl
+    - network policy
+    - overlay network
+    - mesh network
+    name: kubeslice-controller-ui
+    type: application
+    urls:
+    - charts/kubeslice-controller-ui-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-07-04T17:50:45.665389741Z"
     description: A Helm chart for Kubernetes
     digest: 0be69f7a582f1873c023ebab0f34a151d65ec361d800df57b67510f6bc8f96f1
     keywords:
@@ -28,4 +55,4 @@ entries:
     urls:
     - charts/kubeslice-controller-ui-0.1.0.tgz
     version: 0.1.0
-generated: "2022-07-04T11:31:24.739455022Z"
+generated: "2022-07-04T17:50:45.664086649Z"
