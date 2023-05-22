@@ -2,9 +2,9 @@ name: Update Index
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
     paths:
-      - 'charts/**.tgz'
+      - "packages/**.tgz"
 
 jobs:
   build:
@@ -19,8 +19,8 @@ jobs:
       - name: Update Index
         run: |
           helm repo index .
-          git config --global user.email "avesha-bot@aveshasystems.com"
-          git config --global user.name "Avesha Bot"
+          git config --global user.email "bot@gmail.com"
+          git config --global user.name "Bot"
           git add index.yaml
           git commit -m "Update chart index"
           git push
